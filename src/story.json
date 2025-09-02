@@ -1,0 +1,48 @@
+{
+    "story": [
+        {
+            "name": "shingo_shoji",
+            "img": "https://i.pinimg.com/736x/d1/16/ef/d116ef9ffec69f8236309d0ec822ab6b.jpg"
+        },
+        {
+            "name": "bunta_fujiwara",
+            "img": "https://i.pinimg.com/736x/39/40/5a/39405a25ce27a1fe06c7cb52027999e0.jpg"
+        },
+        {
+            "name": "takeshi_nakazato",
+            "img": "https://i.pinimg.com/1200x/b5/66/ca/b566ca20f35d2f6c7bf6e729151d6872.jpg"
+        },
+        {
+            "name": "takumi_fujiwara",
+            "img": "https://i.pinimg.com/1200x/90/5e/fe/905efe38f8409c311ab90aaf8ae3ecfb.jpg"
+        },
+        {
+            "name": "Ryosuke_Takahashi",
+            "img": "https://i.pinimg.com/736x/5e/f4/40/5ef440c22e57bda85a5e7fd485f6e1b2.jpg"
+        },
+         {
+            "name": "Iketani_Koichiro",
+            "img": "https://i.pinimg.com/736x/ab/d0/d3/abd0d37fbe9d9822565d95eb382b9f1a.jpg"
+        },
+         {
+            "name": "Sayuki_Makimura",
+            "img": "https://i.pinimg.com/1200x/24/42/e2/2442e26aee85697ddafdfd6316a77968.jpg"
+        },
+          {
+            "name": "kyoko_iwase",
+            "img": "https://i.pinimg.com/736x/e1/02/9c/e1029c0cdecd77049f71959fcc5956c6.jpg"
+        },
+          {
+            "name": "Kyoichi_Sudo",
+            "img": "https://i.pinimg.com/1200x/a3/23/f1/a323f157e0bb2db4ca85694c3015e9fb.jpg"
+        },
+             {
+            "name": "Seiji_Iwaki",
+            "img": "https://i.pinimg.com/1200x/44/e8/2d/44e82d35cfb4e14871712d38b1ab7652.jpg"
+        },
+         {
+            "name": "mako_sato98",
+            "img": "https://i.pinimg.com/1200x/49/59/54/495954e1b7f20e895fb8f0602c74105e.jpg"
+        }
+    ]
+}

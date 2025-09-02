@@ -1,0 +1,78 @@
+/* Contenedor general del perfil */
+.profilePage {
+  max-width: 935px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+/* Encabezado del perfil */
+.profileHeader {
+  display: flex;
+  align-items: center;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.profileImgLarge {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 40px;
+}
+
+.profileInfo {
+  flex: 1;
+}
+
+.username {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.stats {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 10px;
+}
+
+.stats span {
+  font-size: 16px;
+}
+
+.bio {
+  font-size: 14px;
+  color: #555;
+}
+
+/* Grid de posts */
+.profilePosts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2px;
+  margin-top: 30px;
+}
+
+.postItem {
+  position: relative;
+  width: 100%;
+  padding-top: 100%; /* Para mantener formato cuadrado */
+  overflow: hidden;
+}
+
+.postItem img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.postItem img:hover {
+  transform: scale(1.05);
+}

@@ -1,0 +1,82 @@
+.rightSideHome {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    width: 100%;
+}
+
+.topProfileRight {
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imageDivRightSIde {
+    width: 45px;
+    border-radius: 100%;
+}
+
+.imageRightSideProfile {
+    width: 100%;
+    border-radius: 100%;
+    height: 45px;
+}
+
+.userNameBlock {
+    display: flex;
+    flex-direction: column;
+}
+
+.userNameRightSide {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.userFullName {
+    font-size: 14px;
+    color: gray;
+}
+
+.swithcBtn {
+    font-size: 12px;
+    font-weight: 500;
+    color: blue;
+    cursor: pointer;
+}
+
+.leftRightProfile {
+    display: flex;
+    gap: 20px;
+}
+
+.bottomRightSide {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.suggestedBlock {
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.followBlockRightSide {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 10px;
+}
+
+.topProfileRightBottomProfile {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+@media screen and (max-width: 768px) {
+    
+}
